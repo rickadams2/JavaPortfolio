@@ -23,7 +23,7 @@ Legenda
 | Restfull API | [JavaEERestfullAPI_Portfolio](https://github.com/rickadams2/JavaEERestfullAPI_Portfolio)
 | MAVEN | [JAVA-MAVEN-Portfolio](https://github.com/rickadams2/JAVA-MAVEN-Portfolio)	
 |  TDD,  Mockito | [JAVA-MockitoPortfolio-Portfolio](https://github.com/rickadams2/JAVA-MockitoPortfolio-Portfolio)	
-| TDD, JUnitPortlio | [JAVA-JUnitPortfolio](https://github.com/rickadams2/JAVA-JUnitPortfolio)
+| TDD, JUnit | [JUnitPortfolio](https://github.com/rickadams2/JAVA-JUnitPortfolio)
 | TDD, EasyMock | [JAVA-TDD-EasyMockPortfolio-Portfolio](https://github.com/rickadams2/JAVA-TDD-EasyMockPortfolio-Portfolio)
 |  JavaBeans | [JAVA-JUnitPortfolio](https://github.com/rickadams2/JAVA-JUnitPortfolio)	
 | Java Persistence API, JPA | [JAVA-JavaPersistenceAPI-JPA_Portfolio](https://github.com/rickadams2/JAVA-JavaPersistenceAPI-JPA_Portfolio)	
